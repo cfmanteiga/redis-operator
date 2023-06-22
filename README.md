@@ -354,3 +354,4 @@ kubectl delete redisfailover <NAME>
 For the code documentation, you can lookup on the [GoDoc](https://godoc.org/github.com/spotahome/redis-operator).
 
 Also, you can check more deeply information on the [docs folder](docs).
+
